@@ -1,0 +1,6 @@
+[package]
+edition.workspace = true
+name = "revion_winit"
+version.workspace = true
+
+[dependencies]

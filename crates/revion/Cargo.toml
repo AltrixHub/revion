@@ -1,0 +1,6 @@
+[package]
+edition.workspace = true
+name = "revion"
+version.workspace = true
+
+[dependencies]

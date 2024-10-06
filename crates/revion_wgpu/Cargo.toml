@@ -1,0 +1,6 @@
+[package]
+edition.workspace = true
+name = "revion_wgpu"
+version.workspace = true
+
+[dependencies]
